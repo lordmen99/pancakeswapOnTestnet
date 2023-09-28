@@ -6,6 +6,9 @@
   "scripts": {
     "test": "test.js"
   },
+  "engines": {
+    "node": "16.x"
+  },
   "author": "John B",
   "license": "ISC",
   "dependencies": {
@@ -44,7 +47,5 @@
     "web3": "^1.7.4",
     "xmlhttprequest": "^1.8.0"
   }
-  "engines": {
-    "node": "16.x"
-  }
+  
 }

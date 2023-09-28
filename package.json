@@ -44,4 +44,7 @@
     "web3": "^1.7.4",
     "xmlhttprequest": "^1.8.0"
   }
+  "engines": {
+    "node": "16.x"
+  }
 }

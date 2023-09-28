@@ -6,9 +6,6 @@
   "scripts": {
     "test": "test.js"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "author": "John B",
   "license": "ISC",
   "dependencies": {
